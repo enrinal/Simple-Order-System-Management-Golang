@@ -1,9 +1,9 @@
 package models
 
 type Pembeli struct {
-	id int
-	name string
-	countPembelian int
-	countItem int
-	status int
+	ID int
+	Name string
+	CountPembelian int
+	CountItem int
+	Status int
 }
